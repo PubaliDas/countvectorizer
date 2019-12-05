@@ -9,6 +9,6 @@ It basically converts a collection of text documents to a matrix of token counts
 
 A very fine example to illustrate it is the spam detection.
 
-*You can download your dataset from here]* (https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
+You can download your dataset from [here] (https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 
 So a list of spam words were created to identify the dataset based on which CountVectorizer produces a sparse representation of the counts in the list using scipy.sparse.csr_matrix.
